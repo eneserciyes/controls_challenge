@@ -5,3 +5,4 @@ models/tinyphysics_*.onnx
 *.swp
 *.pth
 .ipynb_checkpoints/
+*.pt
